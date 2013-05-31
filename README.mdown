@@ -1,0 +1,9 @@
+#Core Animation: Particle Effects
+
+<img src="Screenshot.png" alt="Screenshot" style="margin-top:1em;" />
+
+This sample project demonstrates how easy it is to add particle effects to your app. Tap, hold and drag to see the particle effects in action.
+
+**Build Requirements:** Xcode 4.6 or later, iOS 6.0 SDK or later
+
+**Runtime Requirements:** iOS 6.0 or later
